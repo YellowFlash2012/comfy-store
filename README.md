@@ -6,4 +6,4 @@ Front end: React with styled component
 Authentication: Auth0
 Payment processing: Stripe
 
-<a href="">Live preview</a>
+<a href="https://shufu-store.netlify.app/">Live preview</a>
